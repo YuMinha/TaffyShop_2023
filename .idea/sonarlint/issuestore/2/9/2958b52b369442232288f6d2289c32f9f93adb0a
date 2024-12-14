@@ -1,0 +1,26 @@
+
+z	java:S135%"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8¿íä·1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¥ÕV8¿íä·1
+l	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜£¯<8¿íä·1
+l	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜£¯<8¿íä·1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©àá÷8Çíä·1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÓåÍâûÿÿÿÿ8¼òä·1
+i	java:S116	"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û»õ‘8¼òä·1
+>
+java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ8Ùòä·1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(“–ış8äòä·1
+:
+java:S2119$"Save and re-use this "Random".(¼İÅf8êòä·1
+{
+java:S2142-"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8òòä·1
+>
+java:S11168"Remove this empty statement.(Åñ­õşÿÿÿÿ8úòä·1
+{
+java:S2142I"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8úòä·1
+{
+java:S2142Q"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8‚óä·1
+{
+java:S2142n"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8‚óä·1
+{
+java:S2142w"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Šóä·1

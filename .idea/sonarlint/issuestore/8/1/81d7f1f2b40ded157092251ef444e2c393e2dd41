@@ -1,0 +1,19 @@
+
+m	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïĞ¶¥8³øÏæ·1
+r	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“˜Œúÿÿÿÿ8»øÏæ·1
+n	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÅåÎËıÿÿÿÿ8»øÏæ·1
+^
+java:S4973W"<Strings and Boxed types should be compared using "equals()".(ã‚ìùÿÿÿÿ8»øÏæ·1
+Y
+java:S4973\"<Strings and Boxed types should be compared using "equals()".(Ïé¸è8»øÏæ·1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İØ˜úÿÿÿÿ8»øÏæ·1
+f
+java:S3252%"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ÎÔ“8ÛøÏæ·1
+\
+java:S3252B"?Use static access with "javax.swing.SwingConstants" for "LEFT".(ƒŞÄå8ÛøÏæ·1
+\
+java:S3252K"?Use static access with "javax.swing.SwingConstants" for "LEFT".(ãˆÖ¸8ÛøÏæ·1
+X
+java:S1854Z"6Remove this useless assignment to local variable "sC".(¾âÜæşÿÿÿÿ8ãøÏæ·1
+I
+java:S1481Z"'Remove this unused "sC" local variable.(¾âÜæşÿÿÿÿ8ãøÏæ·1

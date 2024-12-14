@@ -1,0 +1,18 @@
+
+k
+java:S11920"NDefine a constant instead of duplicating this literal "êµ´ë¦¼ ë³´í†µ" 5 times.(öÄ‡Ü8Î› ä·1
+r	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ˆÉÍùÿÿÿÿ8Î› ä·1
+J
+java:S1604R"(Make this anonymous inner class a lambda(Ü½ÖØøÿÿÿÿ8Ş› ä·1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(øëßÍ8æ› ä·1
+^
+java:S4973f"<Strings and Boxed types should be compared using "equals()".(Îè‰¬şÿÿÿÿ8æ› ä·1
+^
+java:S4973h"<Strings and Boxed types should be compared using "equals()".(‡™âóÿÿÿÿÿ8æ› ä·1
+Y
+java:S4973j"<Strings and Boxed types should be compared using "equals()".(à¡°Ã8æ› ä·1
+Y
+java:S4973l"<Strings and Boxed types should be compared using "equals()".(©Ìçå8æ› ä·1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İØ˜úÿÿÿÿ8î› ä·1
+f
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¡­ê8¦œ ä·1

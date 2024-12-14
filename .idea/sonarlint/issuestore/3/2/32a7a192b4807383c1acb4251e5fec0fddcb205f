@@ -1,0 +1,13 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İØ˜úÿÿÿÿ8Å§¹ä·1
+r	java:S116"VRename this field "CallStatics" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Éáã8©¹ä·1
+r	java:S116"QRename this field "ToMenu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì³Õåüÿÿÿÿ8©¹ä·1
+p	java:S116"ORename this field "Exit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›²¯Ùùÿÿÿÿ8©¹ä·1
+p	java:S116"ORename this field "Save" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Èâúÿÿÿÿ8©¹ä·1
+f
+java:S3252%"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ÎÔ“8—©¹ä·1
+o	java:S100u"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØâŞ¹üÿÿÿÿ8±©¹ä·1
+O
+java:S1172…",Remove this unused method parameter "table".(¡„Ÿ…şÿÿÿÿ8¹©¹ä·1
+J
+java:S1068"(Remove this unused "Save" private field.(½Èâúÿÿÿÿ8Ñ©¹ä·1

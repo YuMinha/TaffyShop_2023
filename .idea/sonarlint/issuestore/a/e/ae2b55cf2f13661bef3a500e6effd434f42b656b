@@ -1,0 +1,40 @@
+
+m
+java:S1192B"PDefine a constant instead of duplicating this literal "customerOut.png" 3 times.(£Î“é8†Ø€ç·1
+m	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïĞ¶¥8†Ø€ç·1
+n	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïĞ¶¥8†Ø€ç·1
+n	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïĞ¶¥8†Ø€ç·1
+n	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïĞ¶¥8†Ø€ç·1
+n	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïĞ¶¥8†Ø€ç·1
+n	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïĞ¶¥8†Ø€ç·1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İØ˜úÿÿÿÿ8Ø€ç·1
+u	java:S116
+"TRename this field "ConsolePa" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠƒŠ”üÿÿÿÿ8§Ø€ç·1
+u	java:S116"TRename this field "spMulti_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÁÎ¸üÿÿÿÿ8§Ø€ç·1
+p	java:S116"TRename this field "spMulti_5" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªŞÂ—8§Ø€ç·1
+q	java:S116"URename this field "spMulti_10" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä´—¾8§Ø€ç·1
+v	java:S116"URename this field "spMulti_50" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à ‘˜úÿÿÿÿ8§Ø€ç·1
+f
+java:S3252 "IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¡­ê8¯Ø€ç·1
+^
+java:S3252+"AUse static access with "javax.swing.SwingConstants" for "CENTER".(Õ–ş”8¯Ø€ç·1
+c
+java:S3252V"AUse static access with "javax.swing.SwingConstants" for "CENTER".(™ÇÊ±úÿÿÿÿ8¯Ø€ç·1
+c
+java:S3252^"AUse static access with "javax.swing.SwingConstants" for "CENTER".(ü‚íîùÿÿÿÿ8¯Ø€ç·1
+I
+java:S1602`",Remove useless curly braces around statement(ù¶Ïˆ8·Ø€ç·1
+I
+java:S1602g",Remove useless curly braces around statement(şÇàå8·Ø€ç·1
+c
+java:S3252l"AUse static access with "javax.swing.SwingConstants" for "CENTER".(‰òä“ıÿÿÿÿ8·Ø€ç·1
+I
+java:S1602n",Remove useless curly braces around statement(Ê„àõ8·Ø€ç·1
+c
+java:S3252s"AUse static access with "javax.swing.SwingConstants" for "CENTER".(Šœàûÿÿÿÿ8·Ø€ç·1
+N
+java:S1602u",Remove useless curly braces around statement(´ëÇøÿÿÿÿ8·Ø€ç·1
+k	java:S100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºšÓĞ8·Ø€ç·1
+p	java:S100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Öâ³şÿÿÿÿ8¿Ø€ç·1
+k	java:S100×"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ÿ¡Å8¿Ø€ç·1
+j	java:S100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áàîA8¿Ø€ç·1
